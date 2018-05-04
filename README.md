@@ -1,0 +1,2 @@
+# PredPol---Crime-Analysis
+Crimes have been severely increased in past few years, the Problem Statement includes analysis of crimes with different perspectives including utmost attributes possible and predicting via the study of nature of crimes committed. Predictions will be made to provide local authorities with an upper hand on crime and help them plan a better strategy to tackle the same. Dataset Source: https//: data.gov.in and https://data.org, 2017 Dataset for crimes committed.
